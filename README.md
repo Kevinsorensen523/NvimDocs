@@ -15,3 +15,5 @@ v
 ### Line Selection
 V
 
+### Delete Files
+:!rm files.extension
